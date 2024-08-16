@@ -1,0 +1,12 @@
+apiVersion: v1
+data:
+  AUTHOR: fazliddin
+  ENV: dev
+  HTTP_PORT: "80"
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2024-08-15T21:51:04Z"
+  name: credentials
+  namespace: practice-fazliddin
+  resourceVersion: "7585484"
+  uid: ac78e5bd-8554-4eac-83b1-5ab6fd6b4093

@@ -1,0 +1,2 @@
+NAME               READY   UP-TO-DATE   AVAILABLE   AGE
+nginx-named-port   1/1     1            1           100s

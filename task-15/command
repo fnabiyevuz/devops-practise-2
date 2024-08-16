@@ -1,0 +1,1 @@
+kubectl create cm credentials --from-literal AUTHOR=fazliddin --from-literal ENV=dev --from-literal HTTP_PORT=80

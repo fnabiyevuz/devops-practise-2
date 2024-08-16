@@ -1,0 +1,2 @@
+kubectl create deploy nginx-named-port --image nginx:1.18 --replicas 1 --port 80 --dry-run=client -o yaml > task-4/task.yaml
+kubectl get deployments.app

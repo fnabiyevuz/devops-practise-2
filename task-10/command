@@ -1,0 +1,1 @@
+kubectl expose deployment flask-app --name flask-clusterip --port 80 --target-port 5000

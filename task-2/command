@@ -1,0 +1,5 @@
+kubectl create deploy nginx-deploy --image nginx:1.22 --replicas 2
+kubectl rollout status deployment nginx-deploy
+kubectl scale deployment nginx-deploy --replicas 4
+kubectl rollout history deployment nginx-deploy
+kubectl rollout undo deployment nginx-deploy

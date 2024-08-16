@@ -1,0 +1,2 @@
+kubectl create -f task-20/priorityclass.yaml
+kubectl get priorityclasses.scheduling.k8s.io

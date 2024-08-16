@@ -1,0 +1,12 @@
+apiVersion: v1
+data:
+  OPERATOR: UGF5bWU=
+  TOKEN: YXlzZ2R5Z2F5d2d5ZGdhd3lnZHl1YWdzZHVhc2ppZHVpYXN1ZA==
+kind: Secret
+metadata:
+  creationTimestamp: "2024-08-15T21:54:55Z"
+  name: credentials
+  namespace: practice-fazliddin
+  resourceVersion: "7586637"
+  uid: 1ab2d709-9df6-4312-9987-77150d6b4c3c
+type: Opaque

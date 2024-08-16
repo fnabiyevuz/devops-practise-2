@@ -1,0 +1,6 @@
+NAME                      VALUE        GLOBAL-DEFAULT   AGE
+fazliddin-pod-important   1000000      false            73s
+high-priority             1000000      false            10d
+k8s-cluster-critical      1000000000   false            13d
+system-cluster-critical   2000000000   false            13d
+system-node-critical      2000001000   false            13d

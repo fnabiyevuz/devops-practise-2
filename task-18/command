@@ -1,0 +1,1 @@
+kubectl create -f task-18/limit-range.yaml

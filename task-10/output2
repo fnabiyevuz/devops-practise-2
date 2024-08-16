@@ -1,0 +1,4 @@
+NAME               TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+flask-app          NodePort    10.233.33.236   <none>        80:30157/TCP   3m8s
+flask-clusterip    ClusterIP   10.233.63.147   <none>        80/TCP         2m44s
+nginx-named-port   ClusterIP   10.233.39.169   <none>        80/TCP         116m

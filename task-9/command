@@ -1,0 +1,2 @@
+kubectl create deploy flask-app --image nvrbckdown/flask-app:v1 --replicas 1 --port 5000
+kubectl port-forward pods/flask-app-56d55dc5b5-n82nj 8080:5000

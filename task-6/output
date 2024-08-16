@@ -1,0 +1,3 @@
+NAMESPACE            NAME                                READY   STATUS    RESTARTS   AGE
+practice-fazliddin   nginx-named-port-74c5f6cf94-vcn26   1/1     Running   0          66s
+practice-s-madatov   nginx-named-port-65886c94c4-p49hk   1/1     Running   0          25h

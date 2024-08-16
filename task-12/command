@@ -1,0 +1,1 @@
+kubectl create ingress flask-app --rule "flask.nvrbckdown.uz/*=flask-clusterip:80" --class nginx

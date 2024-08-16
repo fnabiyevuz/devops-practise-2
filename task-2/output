@@ -1,0 +1,6 @@
+NAME                            READY   STATUS    RESTARTS   AGE
+nginx-deploy-775958b845-kdkkl   1/1     Running   0          48s
+nginx-deploy-775958b845-mc4dh   1/1     Running   0          48s
+
+
+deployment "nginx-deploy" successfully rolled out
